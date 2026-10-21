@@ -1,0 +1,113 @@
+{
+  "firma": "Zwönitzer Agrargenossenschaft",
+  "stelle": "Anlagenfahrer/-mechaniker Biogas (m/w/d)",
+  "ort": "Zwönitz",
+  "plz": "08297",
+  "branche": "landwirtschaft",
+  "farbe_primary": "#0A7D3E",
+  "farbe_secondary": "#FDF811",
+  "region_badge": "Zwönitz & Umgebung",
+  "benefit_top": "Unbefristet & flexible Arbeitszeiten",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag in Vollzeit",
+    "Flexible Arbeitszeiten",
+    "Kostenübernahme für berufliche Zertifizierungen",
+    "Betriebliche Altersvorsorge & Unfallversicherung",
+    "Kita-Zuschuss",
+    "Firmenhandy",
+    "Flache Hierarchien & freundliches Arbeitsklima"
+  ],
+  "aufgaben": [
+    "Du fährst und überwachst die Biogasanlage auf Güllebasis und erkennst die verschiedensten Anlagen- und Betriebszustände",
+    "Du übernimmst Wartungs- und Reparaturarbeiten an den BHKWs und weiteren Anlagenkomponenten",
+    "Du arbeitest mit Gülle- und Stalltechnik",
+    "Du stimmst dich mit externen Dienstleistern ab"
+  ],
+  "anforderung": "Technisches Interesse – vor allem an BHKWs, Pumpen, Rohrleitungen und Steuerungen –, im besten Fall eine passende Ausbildung. Dazu PC-Grundkenntnisse und die Bereitschaft zu Wochenend- bzw. Bereitschaftsdiensten. Erfahrung mit Traktor und Lader (Klasse T) ist wünschenswert.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Technik / Mechanik",
+      "icon": "🔧",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in Mechanik, Elektrik oder Anlagentechnik",
+          "icon": "🎓"
+        },
+        {
+          "label": "Andere technische Ausbildung",
+          "icon": "📘"
+        },
+        {
+          "label": "Technisch erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Landwirtschaft",
+      "icon": "🚜",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in der Landwirtschaft",
+          "icon": "🎓"
+        },
+        {
+          "label": "Andere Ausbildung",
+          "icon": "📘"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in anderem Beruf",
+          "icon": "📘"
+        },
+        {
+          "label": "Technisch interessierter Quereinsteiger",
+          "icon": "💡"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "80",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "1991",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "✓",
+        "label": "Biogas"
+      }
+    ],
+    "text": "Die Zwönitzer Agrargenossenschaft ist ein traditionsreicher Agrarbetrieb im Erzgebirge mit rund 80 Mitarbeiterinnen und Mitarbeitern. Schwerpunkte sind Milchviehhaltung, Marktfrucht- und Futterproduktion sowie der Landhandel. Mit der eigenen Biogasanlage auf Güllebasis erzeugt der Betrieb grünen Strom und grüne Wärme."
+  },
+  "kunde_tab": "29 Zwönitzer Agrargenossenschaft",
+  "quelle": "https://zwoenitzer-agrar.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Zwönitz"
+  },
+  "hero_bild": "img/hero-bhkw-motor.jpg",
+  "bilder": [
+    "img/f1-bhkw-station.jpg",
+    "img/f2-leitwarte.jpg",
+    "img/f3-motorraum.jpg",
+    "img/f6-betrieb-luftbild.jpg",
+    "img/f4-gasspeicher.jpg",
+    "img/f5-traktor-lader.jpg"
+  ]
+}
