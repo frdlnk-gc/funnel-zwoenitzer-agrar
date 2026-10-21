@@ -103,11 +103,11 @@
   },
   "hero_bild": "img/hero-bhkw-motor.jpg",
   "bilder": [
-    "img/f1-bhkw-station.jpg",
-    "img/f2-leitwarte.jpg",
     "img/f3-motorraum.jpg",
+    "img/f2-leitwarte.jpg",
+    "img/f7-biogasanlage.jpg",
+    "img/f1-traktor-lader.jpg",
     "img/f6-betrieb-luftbild.jpg",
-    "img/f4-gasspeicher.jpg",
-    "img/f5-traktor-lader.jpg"
+    "img/f4-gasspeicher.jpg"
   ]
 }

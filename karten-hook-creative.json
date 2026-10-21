@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-weiss-hd.png",
+ "foto": "img/foto-hd-bhkw-motor.jpg",
+ "fokus": [
+  0.45,
+  0.5
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#0A7D3E",
+ "headline": [
+  "ANLAGENFAHRER/",
+  "-MECHANIKER"
+ ],
+ "headline_zusatz": "(m/w/d) · Biogasanlage",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Zwönitz · Stollberg · Aue · Chemnitz"
+}

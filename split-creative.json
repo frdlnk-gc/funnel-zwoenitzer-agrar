@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-betrieb-luftbild.jpg",
+  "primary": "#0A7D3E",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#0A7D3E",
+  "kicker": "WIR SUCHEN IN ZWÖNITZ",
+  "headline": [
+   "Anlagenfahrer/-",
+   "mechaniker (m/w/d)"
+  ],
+  "subline": "Für unsere Biogasanlage – grüner Strom und grüne Wärme.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-biogasanlage.jpg",
+  "primary": "#0A7D3E",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN ZWÖNITZ",
+  "headline": [
+   "Anlagenfahrer/-mechaniker (m/w/d)"
+  ],
+  "checkliste": [
+   "Unbefristeter Arbeitsvertrag",
+   "Flexible Arbeitszeiten",
+   "Berufliche Zertifizierungen bezahlt"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ }
+]

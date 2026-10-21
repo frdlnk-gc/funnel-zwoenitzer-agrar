@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-weiss-hd.png",
+ "fotos": [
+  "img/foto-hd-motorraum.jpg",
+  "img/foto-hd-leitwarte.jpg",
+  "img/foto-hd-traktor-lader.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.5
+  ]
+ ],
+ "primary": "#0A7D3E",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Anlagenfahrer/",
+  "-mechaniker Biogas"
+ ],
+ "headline_zusatz": "(m/w/d) – Vollzeit, unbefristet",
+ "ort": "Zwönitz · Stollberg · Aue · Chemnitz",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
